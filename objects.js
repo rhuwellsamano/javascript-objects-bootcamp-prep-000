@@ -8,7 +8,7 @@ var playlist = {
 // }
 
 function updatePlaylist(playList, artistName, songTitle){
-  playlist[Drake] = Controlla
+  playlist[Krewella] = Alive
 
   return playlist
 }
